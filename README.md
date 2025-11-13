@@ -9,6 +9,11 @@ This project demonstrates clean front-end architecture with a focus on **respons
 ```
 ElevateLabs/
 ├── landing-page-task-1/
+    ├── images/
+    |   ├── screenshot-1.png
+    |   ├── screenshot-2.png
+    |   ├── screenshot-3.png
+    |   ├── screenshot-4.png
     ├── index.html # Main HTML file
     ├── style.css # Stylesheet
 ```
