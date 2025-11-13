@@ -95,7 +95,7 @@ You are free to use, modify, and distribute it for **personal or educational pur
 
 ---
 
-## 👨‍💻 Author
+## 👩‍💻 Author
 
 **Devi Patil**
 
